@@ -59,8 +59,6 @@ I'm a Fullstack Developer passionate about building useful digital products from
 
 ---
 
-### GitHub Statistics
-
 <!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafiansyah05&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiansyah05&layout=compact&hide_border=true&theme=transparent" />
@@ -69,9 +67,30 @@ I'm a Fullstack Developer passionate about building useful digital products from
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiansyah05&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rafiansyah05&hide_border=true&theme=transparent" />
 </p> 
+
+<p align="center">
+  <i>Building, learning, and turning ideas into real products.</i>
+</p> -->
+
+###GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rafiansyah05&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiansyah05&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafiansyah05&theme=github-dark-blue&hide_border=true" width="70%" />
+</p>
+
+###Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiansyah05&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
   <i>Building, learning, and turning ideas into real products.</i>
