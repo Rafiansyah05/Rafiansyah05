@@ -11,6 +11,9 @@
 </p>
 
  <p align="center">
+  <a href="https://rafiansyah.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:arafiansyah20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
