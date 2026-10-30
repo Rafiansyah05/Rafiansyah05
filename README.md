@@ -10,10 +10,16 @@
   Informatics Undergraduate at <b>Telkom University</b> · Bandung, Indonesia
 </p>
 
-<p align="center">
-  <a href="https://rafiansyah.vercel.app">Portfolio</a> •
-  <a href="https://github.com/Rafiansyah05">GitHub</a> •
-  <a href="mailto:arafiansyah20@gmail.com">Email</a>
+ <p align="center">
+  <a href="mailto:arafiansyah20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-rafiansyah-08939637a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rafiansya__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
