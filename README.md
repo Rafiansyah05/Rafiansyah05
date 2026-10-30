@@ -44,14 +44,59 @@ I'm a Fullstack Developer passionate about building useful digital products from
 
 ### Featured Projects
 
-| Project | Description |
-|---|---|
-| **Adatelur** | Direct-to-consumer egg marketplace connecting farmers with consumers. |
-| **Docsly** | AI-assisted document creation tool for academic writing. |
-| **FunFram** | Real-time video chat platform built with WebRTC. |
-| **Smartify** | AI-powered assessment and analytics platform for teachers. |
-| **Yieldex** | DeFi platform for tokenized asset yield. |
-| **CaterWise** | Decision-support platform for buffet restaurant production. |
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1800&color=58A6FF&center=true&vCenter=true&width=500&lines=Things+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=17\&pause=1800\&color=58A6FF\&center=true\&vCenter=true\&width=500\&lines=Things+I)'ve+Built;Ideas+Turned+Into+Digital+Products" />
+\</p>
+
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>Adatelur\</h3>
+&#x20;     \<img src="[https://img.shields.io/badge/Marketplace-Product-blue?style=flat-square](https://img.shields.io/badge/Marketplace-Product-blue?style=flat-square)" />
+&#x20;     \<p>A direct-to-consumer marketplace connecting egg farmers with consumers, eliminating unnecessary middlemen.\</p>
+&#x20;     \<sub>\<b>Highlights:\</b> Midtrans · Fonnte · Web Push Notifications\</sub>
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>Docsly\</h3>
+&#x20;     \<img src="[https://img.shields.io/badge/AI-Powered-purple?style=flat-square](https://img.shields.io/badge/AI-Powered-purple?style=flat-square)" />
+&#x20;     \<p>An AI-assisted document editor that helps students and professionals create structured academic documents.\</p>
+&#x20;     \<sub>\<b>Stack:\</b> Next.js · Supabase · Gemini API\</sub>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>FunFram\</h3>
+&#x20;     \<img src="[https://img.shields.io/badge/Real--Time-Communication-green?style=flat-square](https://img.shields.io/badge/Real--Time-Communication-green?style=flat-square)" />
+&#x20;     \<p>A real-time video chat platform that randomly pairs users for one-on-one conversations and interactive games.\</p>
+&#x20;     \<sub>\<b>Core Technology:\</b> WebRTC\</sub>
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>Smartify\</h3>
+&#x20;     \<img src="[https://img.shields.io/badge/Generative-AI-purple?style=flat-square](https://img.shields.io/badge/Generative-AI-purple?style=flat-square)" />
+&#x20;     \<p>An AI-powered assessment platform that generates quizzes, analyzes student performance, and identifies competency gaps.\</p>
+&#x20;     \<sub>\<b>Focus:\</b> AI · Educational Analytics\</sub>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>Yieldex\</h3>
+&#x20;     \<img src="[https://img.shields.io/badge/DeFi-Blockchain-orange?style=flat-square](https://img.shields.io/badge/DeFi-Blockchain-orange?style=flat-square)" />
+&#x20;     \<p>A DeFi platform enabling tokenized asset holders to unlock liquidity by selling future yield without selling their underlying assets.\</p>
+&#x20;     \<sub>\<b>Focus:\</b> DeFi · Tokenized Assets\</sub>
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🍽️ CaterWise\</h3>
+&#x20;     \<img src="[https://img.shields.io/badge/Decision-Support-teal?style=flat-square](https://img.shields.io/badge/Decision-Support-teal?style=flat-square)" />
+&#x20;     \<p>A decision-support platform helping buffet restaurants determine food production quantities using historical demand patterns.\</p>
+&#x20;     \<sub>\<b>Focus:\</b> Data Analytics · Forecasting\</sub>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
+
+\<p align="center">
+&#x20; \<i>From solving real-world problems to building products that matter.\</i>
+\</p>
+
 
 ### Experience
 
