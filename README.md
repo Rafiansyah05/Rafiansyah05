@@ -57,6 +57,7 @@ I'm a Fullstack Developer passionate about building useful digital products from
 
 - **Product Manager — PRODIGI LAB DTC** (April 2026 – Present)
 - **Frontend Developer Intern — COE HUMIC Engineering** (April – June 2026)
+- **Fullstack Developer - Deeportal**  (October 2026 - Present)
 
 ### Achievements
 
