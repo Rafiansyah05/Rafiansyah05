@@ -106,7 +106,7 @@ I'm a Fullstack Developer passionate about building useful digital products from
     <td width="70%" valign="top">
       <b>Product Manager</b>
       <br>
-      <a href="#">PRODIGI LAB DTC</a> · Telkom University
+      <a href="https://prodigi.telkomuniversity.ac.id/">PRODIGI LAB DTC</a> · Telkom University
       <br>
       <sub>Leading product development, defining feature requirements, coordinating cross-functional teams, and managing product releases for MyProdigi.</sub>
     </td>
@@ -121,7 +121,7 @@ I'm a Fullstack Developer passionate about building useful digital products from
     <td width="70%" valign="top">
       <b>Fullstack Developer</b>
       <br>
-      <a href="#">Deeportal</a>
+      <a href="https://deeportal.tech/">Deeportal</a>
       <br>
       <sub>Working on fullstack software development and building web-based products and services.</sub>
     </td>
