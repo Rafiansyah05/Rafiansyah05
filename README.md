@@ -59,13 +59,73 @@ I'm a Fullstack Developer passionate about building useful digital products from
 - **Frontend Developer Intern — COE HUMIC Engineering** (April – June 2026)
 - **Fullstack Developer - Deeportal**  (October 2026 - Present)
 
-### Achievements
+### 🏆 Achievements & Competitions
 
-- 🥇 1st Place — Hackathon 2025, Ericsson & Qualcomm
-- 🥇 1st Place — UI/UX Competition INFORMATION 2025
-- 🥈 2nd Place — UI/UX Competition ANFORCOM 2025
-- 🥉 3rd Place — Website Development Competition VETERNITY 2026
-- 🥉 3rd Place — UI/UX Design Competition ICONIC IT 2024
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Recognized+in+National+Competitions;Turning+Ideas+into+Award-Winning+Products" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/1st%20Place-Gold?style=for-the-badge&logo=medal&logoColor=white&color=DAA520" />
+      <br><br>
+      <b>Hackathon 2025</b>
+      <br>
+      Ericsson & Qualcomm
+      <br>
+      <sub>November 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/1st%20Place-Gold?style=for-the-badge&logo=medal&logoColor=white&color=DAA520" />
+      <br><br>
+      <b>INFORMATION 2025</b>
+      <br>
+      UI/UX Competition
+      <br>
+      <sub>July 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/2nd%20Place-Silver?style=for-the-badge&logo=medal&logoColor=white&color=8C959F" />
+      <br><br>
+      <b>ANFORCOM 2025</b>
+      <br>
+      UI/UX Competition
+      <br>
+      <sub>September 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/3rd%20Place-Bronze?style=for-the-badge&logo=medal&logoColor=white&color=CD7F32" />
+      <br><br>
+      <b>VETERNITY 2026</b>
+      <br>
+      Website Development Competition
+      <br>
+      <sub>August 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/3rd%20Place-Bronze?style=for-the-badge&logo=medal&logoColor=white&color=CD7F32" />
+      <br><br>
+      <b>ICONIC IT 2024</b>
+      <br>
+      UI/UX Design Competition
+      <br>
+      <sub>September 2024</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>5 National Competition Awards</b>
+  <br>
+  <img src="https://img.shields.io/badge/1st%20Place-2%20Awards-DAA520?style=flat-square" />
+  <img src="https://img.shields.io/badge/2nd%20Place-1%20Award-8C959F?style=flat-square" />
+  <img src="https://img.shields.io/badge/3rd%20Place-2%20Awards-CD7F32?style=flat-square" />
+</p>
 
 ---
 
