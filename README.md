@@ -69,9 +69,9 @@ I'm a Fullstack Developer passionate about building useful digital products from
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiansyah05&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rafiansyah05&hide_border=true&theme=transparent" />
-</p>
+</p> -->
 
 <p align="center">
   <i>Building, learning, and turning ideas into real products.</i>
