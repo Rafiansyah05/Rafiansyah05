@@ -81,11 +81,6 @@ GitHub Statistics
   <img src="https://streak-stats.demolab.com?user=Rafiansyah05&theme=github-dark-blue&hide_border=true" width="70%" />
 </p>
 
-Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiansyah05&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
 
 <p align="center">
   <i>Building, learning, and turning ideas into real products.</i>
