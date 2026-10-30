@@ -96,11 +96,57 @@ I'm a Fullstack Developer passionate about building useful digital products from
 </p>
 
 
-### Experience
+### Professional Experience
 
-- **Product Manager — PRODIGI LAB DTC** (April 2026 – Present)
-- **Frontend Developer Intern — COE HUMIC Engineering** (April – June 2026)
-- **Fullstack Developer - Deeportal**  (October 2026 - Present)
+<table>
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/April%202026-Present-238636?style=for-the-badge" />
+    </td>
+    <td width="70%" valign="top">
+      <b>Product Manager</b>
+      <br>
+      <a href="#">PRODIGI LAB DTC</a> · Telkom University
+      <br>
+      <sub>Leading product development, defining feature requirements, coordinating cross-functional teams, and managing product releases for MyProdigi.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr></td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/October%202026-Present-238636?style=for-the-badge" />
+    </td>
+    <td width="70%" valign="top">
+      <b>Fullstack Developer</b>
+      <br>
+      <a href="#">Deeportal</a>
+      <br>
+      <sub>Working on fullstack software development and building web-based products and services.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr></td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/April%20%E2%80%93%20June%202026-Completed-8C959F?style=for-the-badge" />
+    </td>
+    <td width="70%" valign="top">
+      <b>Frontend Developer Intern</b>
+      <br>
+      COE HUMIC Engineering · Telkom University
+      <br>
+      <sub>Completed a two-month frontend development internship and received an official certificate of completion.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Growing through building products, collaborating with teams, and solving real-world problems.</i>
+</p>
+
 
 ### 🏆 Achievements & Competitions
 
