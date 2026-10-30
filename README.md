@@ -1,6 +1,3 @@
- 
-# Hi, I'm Ahmad Rafiansyah 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Ahmad%20Rafiansyah&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:24292e,100:414b57" width="100%" />
 </p>
@@ -33,7 +30,7 @@ I'm a Fullstack Developer passionate about building useful digital products from
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,astro,tailwind,html,css,nodejs,go,python,java,postgres,mysql,supabase,prisma,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,nodejs,go,python,java,postgres,mysql,supabase,git" />
 </p>
 
 ### Featured Projects
