@@ -30,7 +30,7 @@ I'm a Fullstack Developer passionate about building useful digital products from
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,go,python,postgres,mysql,supabase,git,github&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,go,python,postgres,mysql,supabase,git,github&perline=5"/>
 </p>
 
 ### Featured Projects
