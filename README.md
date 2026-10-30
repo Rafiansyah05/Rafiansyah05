@@ -61,9 +61,12 @@ I'm a Fullstack Developer passionate about building useful digital products from
 
 ### GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafiansyah05&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiansyah05&layout=compact&hide_border=true&theme=transparent" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiansyah05&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
